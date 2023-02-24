@@ -2,7 +2,7 @@
 #user will guess number with a prompt until they guess correct number
 # Author: Edward Cronin
 
-numberToGuess = 30
+numberToGuess = 48
 
 guess = int(input("Please guess the number:"))
 while guess != numberToGuess:
