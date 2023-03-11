@@ -6,5 +6,5 @@ def yo(a):
     return a * 2
 
 # here we are calling the function yo
-# and are passing in an argument, 3
-print(yo(3))
+# and are passing in an argument, 6
+print(yo(6))
